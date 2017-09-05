@@ -15,4 +15,5 @@ Anaconda Prompt:
 >> python predict.py
 
 train.zip contains training set with 22 classes of alphabets 
+
 predict.zip contains text images to be predicted
