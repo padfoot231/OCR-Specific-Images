@@ -5,6 +5,7 @@ Instructions to run training.py and predict.py
 Training:	
 Anaconda Prompt:
 >> activate tensorflow
+
 >> python train.py
 
 Testing: 
@@ -12,6 +13,7 @@ To provide input in code predict.py go to line number 11 and give the path of th
 
 Anaconda Prompt:
 >>activate tensorflow
+
 >> python predict.py
 
 train.zip contains training set with 22 classes of alphabets 
